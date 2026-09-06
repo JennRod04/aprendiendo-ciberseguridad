@@ -1,1 +1,38 @@
+# Resumen Ejecutivo del Documento PDF: El Phishing y su Relación con Recursos Humanos
 
+**Documento oficial en PDF:** [Phishing-RRHH.pdf](./Phishing-RRHH.pdf)  
+**Autora:** Jennifer Gabriela Rodríguez Jiménez  
+**Programa:** Mujer Digital – Junior Achievement  
+**Área:** Ciberseguridad & Gestión del Talento Humano  
+
+
+
+## Sintesis General
+El documento analiza el **phishing** como una amenaza de ciberseguridad centrada en la **ingeniería social y la manipulación psicológica**, argumentando que su prevención no debe recaer de forma exclusiva en el departamento de Tecnologías de Información (TI), sino que constituye una responsabilidad compartida con el área de **Recursos Humanos (RRHH)**.
+
+
+
+## Puntos Principales del Análisis
+
+1. **Impacto en la Gestión Humana:** 
+   El departamento de RRHH maneja constantemente datos altamente sensibles (expedientes laborales, registros salariales, cuentas bancarias e información personal). Una vulneración en este sector afecta la confidencialidad de toda la organización.
+
+2. **Mecanismo de Explotación:** 
+   Los atacantes suplantan comunicaciones corporativas habituales aprovechando emociones como la urgencia, la autoridad o la curiosidad para inducir a los colaboradores a realizar acciones no seguras de manera voluntaria.
+
+3. **Cultura de Seguridad vs. Culpa Individual:** 
+   Sancionar únicamente al usuario es insuficiente. Las organizaciones deben implementar capacitaciones periódicas y establecer canales de reporte claros en entornos laborales basados en la confianza, donde reportar un error no genere temor a represalias.
+
+4. **Estrategia Integral (Tecnología + Personas):** 
+   Aunque las herramientas tecnológicas (filtros de correo, MFA) son indispensables, deben complementarse con la formación continua del personal para fortalecer el factor humano como la primera línea de defensa.
+
+
+
+## Estructura del Documento PDF
+
+* **Introducción:** Contexto de la transformación digital y el rol de RRHH.
+* **Definición y Alcance del Phishing:** Mecanismos de ingeniería social.
+* **Relación RRHH - Ciberseguridad:** Sensibilidad de datos e impacto organizacional.
+* **Manipulación Psicológica:** Estrategias de los atacantes en entornos laborales.
+* **Propuestas de Mitigación:** Cultura organizacional, capacitación, canales de reporte y controles tecnológicos.
+* **Conclusión:** La convergencia entre gestión humana y seguridad de la información para la resiliencia digital.
